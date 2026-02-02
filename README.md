@@ -1,2 +1,7 @@
-# api-test-suite-restassured
-REST API automated tests using Rest Assured and JUnit 5
+# API Test Suite - RestAssured    
+    
+    ## Tech Stack (Planned)
+    - Java 17
+    - Maven
+    - JUnit 5
+    - RestAssured
